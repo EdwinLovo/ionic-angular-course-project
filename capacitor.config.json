@@ -1,0 +1,13 @@
+{
+  "appId": "com.placebooking.app",
+  "appName": "PlaceBookingApp",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordova": {}
+}

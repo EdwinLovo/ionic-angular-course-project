@@ -1,5 +1,7 @@
 {
   "name": "PlaceBookingApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
